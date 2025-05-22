@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm D.M. Shahriar Hossain (a.k.a. Rownok Vai) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+%7C+Fullstack+Dev+%7C+React+%7C+Node+%7C+MERN+Stack;AI+Agent+%2B+Web+Developer;Attar+Business+Owner+%7C+Tracking+Profit+%26+Loss+Daily;Final+Year+Thesis%3A+Easy+Guide+%28React+Native%2C+MERN%29;Learning+Arabic+%7C+Cold+Calling+%7C+UI%2FUX+Sketching+%7C+Competitive+Programming+;Always+Leveling+Up+%E2%9A%94%EF%B8%8F" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
