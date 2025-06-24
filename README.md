@@ -1,94 +1,88 @@
-![AI Engineer Banner](https://via.placeholder.com/1200x300.png?text=AI+Engineer+%7C+ML+Specialist+%7C+Open+Source+Contributor)
+# 👋 Hello, I'm D.M. Shahriar Hossain
 
-# 👋 Hi, I'm D.M. Shahriar Hossain  
-*AI Engineer | Machine Learning Specialist | Open Source Contributor*
-
----
-
-## 🧠 My Story
-
-It all started in a cramped Dhaka apartment during a monsoon storm. Hospitals were overflowing, doctors overwhelmed. A friend in the medical field called me in desperation:  
-**"Can you build something to help us predict ICU needs ahead of time?"**
-
-Three weeks, thousands of data points, and sleepless nights later—I deployed a **time-series model that predicted ICU admissions with 87% accuracy**, helping hospital administrators pre-allocate resources. That moment sealed it: I wasn’t just writing code—I was solving real-world problems with AI.
+🎯 **AI Engineer | Machine Learning Specialist | Scalable ML Systems Expert**  
+📍 Dhaka, Bangladesh | 🌍 Open to Remote & On-Site Roles Globally
 
 ---
 
-## 🛠 Technical Expertise
+## 📘 About Me
 
-| Skill               | Experience  |
-|---------------------|-------------|
-| **Languages**       | Python, JavaScript, SQL |
-| **AI/ML Frameworks**| Scikit-learn, Keras, TensorFlow, PyTorch |
-| **Data Handling**   | Pandas, NumPy, OpenCV |
-| **Deployment**      | Flask, Docker, Streamlit |
-| **Tools & Platforms** | Git, GitHub, Jupyter, Linux, AWS |
+With over **5 years of experience** in applying **AI and machine learning** to real-world problems, I specialize in building **scalable ML models** for industries like **finance** and **e-commerce**. My work consistently delivers business impact—from saving costs to boosting user engagement.
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?label=GitHub+Stars&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+I take pride in writing **production-grade, well-documented code**, and I thrive in **cross-functional teams** that turn data into decisions.
 
 ---
 
-## 🚀 Signature Projects
+## 🧠 Core Competencies
 
-### 🎨 1. **GAN for Artistic Image Generation**
-> *“Turning noise into brushstrokes.”*
+| Skill           | Proficiency |
+|------------------|-------------|
+| Python           | ⭐️⭐️⭐️⭐️ (Advanced) |
+| TensorFlow       | ⭐️⭐️⭐️⭐️ (Advanced) |
+| PySpark          | ⭐️⭐️⭐️⭐️ (Advanced) |
+| Scikit-learn     | ⭐️⭐️⭐️⭐️⭐️ (Expert) |
+| SQL              | ⭐️⭐️⭐️⭐️ (Advanced) |
+| Docker           | ⭐️⭐️⭐️⭐️ (Advanced) |
+| AWS (SageMaker)  | ⭐️⭐️⭐️⭐️ (Advanced) |
+| Git & CI/CD      | ⭐️⭐️⭐️⭐️⭐️ (Expert) |
 
-- Built a Generative Adversarial Network (GAN) that produces Van Gogh-style artworks.
-- Reduced training time by 25% with custom loss functions and gradient clipping.
-- ⭐ [GitHub Repo →](https://github.com/yourusername/gan-artgen)
-
-### 📈 2. **Time-Series Forecasting for ICU Admissions**
-> *“When time is life, forecasting saves lives.”*
-
-- Created a robust LSTM model for ICU demand forecasting with real-time hospital data.
-- Achieved **15% lower MAE** than baseline ARIMA models.
-- ⭐ [GitHub Repo →](https://github.com/yourusername/icu-lstm-forecast)
-
-### 🛍️ 3. **Sales Prediction System for Retail Chain**
-> *“From data chaos to actionable insights.”*
-
-- Developed an end-to-end ML pipeline using Random Forests.
-- Integrated with dashboard to visualize demand trends and outliers.
-- Helped reduce inventory waste by **~12%** in pilot stores.
-- ⭐ [GitHub Repo →](https://github.com/yourusername/retail-ml-sales-predictor)
-
-### 🤖 4. **AI-Powered Chatbot for Campus Helpdesk**
-> *“Solving 80% of student queries without human input.”*
-
-- Built using Transformers (DistilBERT) and deployed via Flask.
-- Accuracy: 91% intent classification, 85% response relevance.
-- ⭐ [GitHub Repo →](https://github.com/yourusername/ai-campus-bot)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🧼 Code Ethos: Clean. Modular. Documented.
+## 🚀 Impactful Projects
 
-I treat code like storytelling:  
-- **Readable**: Because future-me deserves kindness.  
-- **Documented**: Every line should justify its existence.  
-- **Modular**: So others can plug in, tweak, and scale.
+### 💳 **FraudShield** – Fraud Detection System for Financial Transactions  
+**Tech Stack**: Python, TensorFlow, PySpark, AWS  
+**Impact**:
+- Deployed a real-time fraud detection model that **reduced false positives by 35%**.
+- Helped the client **save over $500K annually** in fraudulent charges.
+- Built scalable data ingestion pipelines using AWS Glue and Spark.
 
-I believe **teamwork > talent**. I thrive in collaboration—brainstorming models over coffee, reviewing pull requests with empathy, and pair programming to learn from each other.
-
----
-
-## 🤝 Let’s Connect!
-
-| Platform     | Link |
-|--------------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/shahriar-ai](https://www.linkedin.com/in/shahriar-ai) |
-| 🌐 **Portfolio** | [www.shahriarai.dev](https://www.shahriarai.dev) *(Coming Soon)* |
-| 📧 **Email** | [shahriar.ai.engineer@gmail.com](mailto:shahriar.ai.engineer@gmail.com) |
+🔗 [GitHub Repo](https://github.com/yourusername/fraudshield)
 
 ---
 
-![Professional Headshot](https://via.placeholder.com/150.png?text=Your+Photo)
+### 🛒 **RecoBoost** – Personalized Recommendation Engine for E-commerce  
+**Tech Stack**: Python, Scikit-learn, Docker, PostgreSQL  
+**Impact**:
+- Improved product recommendation relevance, boosting **user engagement by 25%**.
+- A/B tested and deployed via Docker on a cloud-based microservices architecture.
+- Enhanced LTV by **~18% over 6 months** in pilot markets.
 
-> _“AI is only as powerful as the empathy of the person building it.”_  
+🔗 [GitHub Repo](https://github.com/yourusername/recoboost)
+
+---
+
+### 📊 **SalesCast** – Time-Series Forecasting for Inventory Management  
+**Tech Stack**: Python, Prophet, Pandas, Streamlit  
+**Impact**:
+- Built a forecasting tool that predicted sales volume with **90%+ accuracy (MAPE < 10%)**.
+- Reduced stockouts by **28%** and overstock by **15%**.
+- Deployed internal dashboard for business stakeholders using Streamlit.
+
+🔗 [GitHub Repo](https://github.com/yourusername/salescast)
+
+---
+
+## 🤝 Why Work With Me?
+
+- ✅ **Production-Ready Code**: I write clean, modular, and well-tested code ready for deployment.
+- 🤝 **Cross-Functional Collaboration**: Comfortable working with data scientists, engineers, and business teams.
+- 📈 **Impact-Focused**: Every model I ship is designed to solve a tangible business problem with measurable results.
+- 🧑‍💻 **Consistent Contributor**: Regular contributor to open-source ML tools and internal platforms.
+
+---
+
+## 📬 Contact Info
+
+📧 **Email**: [rownoks1997@gmail.com](mailto:shahriar.ai.engineer@gmail.com)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/dm-shahriar-hossain/](https://www.linkedin.com/in/shahriar-ai)  
+
+---
+
+> _“Great AI doesn't just predict — it transforms decisions.”_  
 > — D.M. Shahriar Hossain
 
----
-
-⭐ _Thank you for stopping by. If you find my work helpful, a ⭐ on any repo would mean the world!_  
