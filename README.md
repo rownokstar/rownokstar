@@ -7,7 +7,7 @@
 
 ## 📘 About Me
 
-With over **5 years of experience** in applying **AI and machine learning** to real-world problems, I specialize in building **scalable ML models** for industries like **finance** and **e-commerce**. My work consistently delivers business impact—from saving costs to boosting user engagement.
+With over **1 year of experience** in applying **AI and machine learning** to real-world problems, I specialize in building **scalable ML models** for industries like **finance** and **e-commerce**. My work consistently delivers business impact—from saving costs to boosting user engagement.
 
 I take pride in writing **production-grade, well-documented code**, and I thrive in **cross-functional teams** that turn data into decisions.
 
